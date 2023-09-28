@@ -396,7 +396,7 @@ sum(!use.snps) # 11479
 ```
 
 # Question nº 7 
-![Manhattan plot: This plot has been done with the function **manhattan()** of the **qqman** library.](/Volumes/TOSHIBA EXT/3r curs/2n quatri/Bioinformàtica II/R/EXERCICI_AV/m_plot.png)
+![Manhattan plot: This plot has been done with the function **manhattan()** of the **qqman** library.](https://raw.githubusercontent.com/claudiavicente/Bioinformatics/main/CRC_GWAS_activity_files/figure-html/m_plot.png)
 
 In the Manhattan Plot, after doing the GWAS, the results obtained from the association between all the SNPs and being or not being a case patient for colorectal cancer are described.
 On the X-axis is represented the position within the genome of each SNP, and on the Y-axis the association, with the p-values obtained from the association study, transformed with its -log10.
